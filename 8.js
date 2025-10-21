@@ -1,8 +1,8 @@
 // function scope    var  let   const
 // inside function     yes  yes   yes
-// outside function    yes  no    no
+// outside function    no  no    no
 
-function testScope(){
+function testScope(){ // function declaration
     var x = 10;
     let y = 20;
     const z = 30;
@@ -10,8 +10,9 @@ function testScope(){
     console.log(y); // 20
     console.log(z); // 30
 }
-testScope();
+testScope();// calling function
 
 console.log(x); // error
 console.log(y); // error
 console.log(z); // error
+
