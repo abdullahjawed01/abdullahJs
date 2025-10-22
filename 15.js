@@ -40,6 +40,8 @@ let person = {
 }
 console.log(person);
 
+//Examples for Arrays
 
+let persondetails = ["suhail",10,true,34923074238907409327n,null]
 
-
+console.log(persondetails);
