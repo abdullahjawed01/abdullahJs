@@ -44,4 +44,4 @@ console.log(person);
 
 let persondetails = ["suhail",10,true,34923074238907409327n,null]
 
-console.log(persondetails);
+console.log( persondetails);
