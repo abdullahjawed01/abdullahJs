@@ -43,3 +43,54 @@ console.log(num.toFixed());// 58-> rounded off, no fractional part
 console.log(num.toFixed(1));//57.2
 console.log(num.toFixed(7));//57.2423000// if decimal is ended then (its add 0 till the digit end like total 7) 
 console.log(num.toFixed(2));//57.24
+
+
+
+
+// toLocaleString()
+
+/*
+toLocaleString() is a  number method that formats a number according to a specific locale (country/language) or
+style - like adding commas, currency, or percentage.
+
+*/
+
+// syntax ==> number.toLocaleString([locales],[options])
+//
+
+/* 
+locales -> optional strinf like "en-US" , "hi-IN" , "de-DE", etc
+(defines language and region format)
+
+options => optional object to control formatting style 
+(currency, decimals , etc.)
+
+*/
+
+
+
+let n = 122332423423.89;
+// console.log(n.toLocaleString());
+
+console.log(n.toLocaleString("en-US"));
+console.log(n.toLocaleString("de-DE"));
+console.log(n.toLocaleString("hi-IN"));
+
+
+
+
+let price = 2500;
+
+console.log(price.toLocaleString("en-US",{style: "currency", currency: "USD"}));
+console.log(price.toLocaleString("hi-IN",{style: "currency", currency: "INR"}));
+console.log(price.toLocaleString("ja-JP",{style: "currency", currency: "JPY"}));
+console.log(price.toLocaleString("ar-SA",{style: "currency", currency: "SAR"}));
+console.log(price.toLocaleString("en-US",{style: "percent"}));
+
+
+
+
+
+
+
+
