@@ -6,7 +6,7 @@
  
 
 object.entries() in js is a built in method that returns an array
-of key-value pairs fro an object
+of key-value pairs from an object
 
 
 
@@ -63,6 +63,3 @@ let users = {
     city: "hyd"
 }
 console.log(Object.values(user));
-
-
-
