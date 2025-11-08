@@ -50,4 +50,4 @@ console.log(firstName,lastName,city,age,phoneNumber,address,favouriteFood)
 // ==>backticks
 // ==> templete literals
 console.log(`my name is ${firstName} ${lastName} and my age is ${age} and i live in ${city} and my phone is 
-    ${phoneNumber} and my adress is ${address} and my favourite food is ${favouriteFood}`)
+    ${phoneNumber} and my adress is ${address} and my favourite food is ${favouriteFood}`)//

@@ -1,4 +1,4 @@
-// and &
+// and &&
 // let a = 16
 // let b = 8
 

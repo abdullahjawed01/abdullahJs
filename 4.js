@@ -28,4 +28,4 @@ let favFood = "biryani"
 let laptopName = "Lenovo"
 let address = "Patna"
 
-console.log(`my name is ${firstName} ${lastName} \nmy age is ${age} \nmy phone no is${phone} \nmy fav food is ${favFood} \nmy laptop name is ${laptopName} \nmy address is ${address}`)
+console.log(`my name is ${firstName} ${lastName} \nmy age is ${age} \nmy phone no is${phone} \nmy fav food is ${favFood} \nmy laptop name is ${laptopName} \nmy address is ${address}`)//

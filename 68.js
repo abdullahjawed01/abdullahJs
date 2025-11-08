@@ -86,7 +86,7 @@ console.log(price.toLocaleString("hi-IN",{style: "currency", currency: "INR"}));
 console.log(price.toLocaleString("ja-JP",{style: "currency", currency: "JPY"}));
 console.log(price.toLocaleString("ar-SA",{style: "currency", currency: "SAR"}));
 console.log(price.toLocaleString("en-US",{style: "percent"}));
-
+0
 
 
 
