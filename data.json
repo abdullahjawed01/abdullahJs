@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Abdullah",
+        "age": 20,
+        "isAlive" : true,
+        "isSleeping ": null
+
+    },
+    {
+        "name": "Kamran",
+        "age": 25,
+        "isAlive" : true,
+        "isSleeping ": null
+    }
+]
