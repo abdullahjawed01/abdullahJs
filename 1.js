@@ -8,6 +8,8 @@ console.log("class of the social dilemma ")
 consolw.lof("hello world")
 
 
+//hellooooo
+
 // if you want multiline comments
 /* 
 this is multi line comments
