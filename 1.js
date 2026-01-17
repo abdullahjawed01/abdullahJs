@@ -10,6 +10,8 @@ consolw.lof("hello world")
 
 
 
+hh
+
 //hellooooo
 
 // if you want multiline comments
