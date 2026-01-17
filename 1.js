@@ -10,7 +10,7 @@ consolw.lof("hello world")
 
 
 
-hh
+
 
 //hellooooo
 
