@@ -8,7 +8,7 @@ console.log("class of the social dilemma ")
 consolw.lof("hello world")
 
 
-
+// hello
 
 
 
