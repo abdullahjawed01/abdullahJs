@@ -9,14 +9,14 @@ consolw.lof("hello world")
 //pushed patna
 //helloooo
 // hello
-//blo
 //helloo
 //hellooo bhai
+
 //completed aassignments
 //done done done
 /// devops
 ///website hosting
-///
+///hello
 
 
 //hellooooo
