@@ -28,7 +28,7 @@ They are part of the web APIs (in browsers) or node.js global timers (in backend
 
 // 2. setInterval()\
 /*
-The setInetval() method reoeatedly calls a function or executes a code snippet, within a fixed time delay between each call.
+The setInterval() method repeatedly calls a function or executes a code snippet, within a fixed time delay between each call.
 
 It continues running until you stop it using clearInterval().
 

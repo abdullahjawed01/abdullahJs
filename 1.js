@@ -5,7 +5,7 @@ console.log("Patna Bihar");
 console.log("Code for india Foundation")
 console.log("class of B25")
 console.log("class of the social dilemma ")
-consolw.lof("hello world")
+console.log("hello world")
 //pushed patna
 //helloooo
 // hello

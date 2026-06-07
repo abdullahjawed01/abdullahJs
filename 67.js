@@ -31,7 +31,7 @@ console.log("step three");
 
 
 // Asynchronous (non-blocking)
-// These are delegated to the browser or node.ks APIs and run in the backgroung, allowing JS to move on.
+// These are delegated to the browser or node.js APIs and run in the backgroung, allowing JS to move on.
 
 // Type                       | Example                                                          |
 // Timers                     | setTimeout() setInterval()                                       |
